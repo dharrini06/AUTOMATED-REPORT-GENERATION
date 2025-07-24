@@ -18,3 +18,4 @@ This task focuses on building a fully automated report generation pipeline using
 
 OUTPUT:
 
+[automated_report.pdf](https://github.com/user-attachments/files/21409101/automated_report.pdf)
